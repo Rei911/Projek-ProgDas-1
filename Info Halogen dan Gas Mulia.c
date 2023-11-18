@@ -82,7 +82,7 @@
 				Nama : Xenon
 				Simbol : Xe
 				Nomor Atom : 54
-				Massa Atom : 131,29
+				Massa Atom : 131,29 u
 				konfigurasi elektron : [Kr] 4d^10 5s^2 5p^6
 				Titik lebur : 161,40 K
 				Titik didih : 165,051 K
