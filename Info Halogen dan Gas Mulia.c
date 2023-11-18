@@ -19,7 +19,7 @@
 				Titik didih : 239,11 K
 				
 				Nama : Bromin
-				Simbol : B
+				Simbol : Br
 				Nomor Atom : 35
 				Massa Atom : 79,904 u
 				konfigurasi elektron : [Ar] 3d^10 4s^2  4p^5
